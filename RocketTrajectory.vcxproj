@@ -22,9 +22,9 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{e8d291be-4876-4ed0-9037-69ef5aff314f}</ProjectGuid>
-    <RootNamespace>RocketTrajectory</RootNamespace>
+    <RootNamespace>PRl Launch Sim</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>RocketTrajectory</ProjectName>
+    <ProjectName>PRL Launch Sim</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
